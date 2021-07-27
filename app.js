@@ -45,8 +45,6 @@ btn2.addEventListener('click',function winner2(){
     }
 })
 function resetGame(){
-    result.classList.remove('winner1')
-    result.classList.remove('winner2')
     result.innerText=`Result:`;
     inputnumberp1.value=''
     inputnumberp2.value=''
