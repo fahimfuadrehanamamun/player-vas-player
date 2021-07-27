@@ -1,0 +1,24 @@
+body{
+
+}
+#container{
+    background-color: green;
+    
+    width: 700px;
+    height: 200px;
+    padding: 30px;
+    color: aqua;
+}
+h1{
+    color:white;
+}
+#p1btn{
+    background-color: brown;
+}
+#p2btn{
+    background-color: orchid;
+}
+#reset{
+    background-color: coral;
+}
+#
